@@ -1,0 +1,11 @@
+langchain
+chromadb
+openai
+langchain-openai
+pypdf
+langchain-groq
+langchain-community
+langchain-text-splitters
+langchain-core
+sentence-transformers
+langchain-huggingface
